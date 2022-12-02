@@ -1,4 +1,4 @@
 # hello-world
 
-Here is the url to my React project:
+Here is the link to my React project:
 https://aidkose-hello-world.web.app/
